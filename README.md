@@ -1,80 +1,94 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=My%20Developer%20Profile&fontSize=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Cici%20Developer%20Portfolio&fontSize=34&fontColor=ffffff"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Web+Developer;Laravel+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=2563EB&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Web+%26+Software+Developer;System+%26+Database+Learner;Building+Projects+to+Grow+Skills" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-Saya seorang mahasiswa di bidang Teknologi Informasi yang sedang aktif belajar dan mengembangkan kemampuan di dunia pemrograman.
+Saya adalah mahasiswa Teknologi Informasi yang fokus pada pengembangan sistem berbasis web dan software.
 
-Saya tertarik pada bagaimana sebuah sistem bekerja, bagaimana data diolah, dan bagaimana teknologi bisa digunakan untuk menyelesaikan masalah secara nyata.
+Saya memiliki ketertarikan pada bagaimana sebuah sistem dirancang dan dibangun secara end-to-end, mulai dari perancangan database, logika backend, hingga implementasi antarmuka pengguna.
 
-Saya terus mengembangkan diri melalui project-project kecil hingga sistem berbasis web yang lebih kompleks.
-
----
-
-## 💻 What I’m Currently Focused On
-
-Saat ini saya fokus pada pengembangan aplikasi berbasis web, terutama menggunakan Laravel.
-
-Beberapa hal yang sedang saya pelajari:
-
-- Web Development (Laravel & PHP)
-- Backend System & Logic Application
-- Database Management (MySQL)
-- CRUD & Dashboard System
-- API Concept & System Design
+Saat ini saya aktif mengembangkan berbagai project akademik dan latihan mandiri untuk memperkuat kemampuan dalam software development.
 
 ---
 
-## 🧠 How I Learn
+## 💡 Core Focus
 
-Saya belajar dengan cara membangun project secara langsung.
-
-Mulai dari memahami kebutuhan sistem, merancang database, membuat backend, hingga menghubungkannya dengan tampilan user.
-
-Dari proses ini saya lebih mudah memahami konsep dibanding hanya teori.
+- Web Application Development  
+- Backend System (PHP & Laravel)  
+- Database Design & Management (MySQL)  
+- CRUD & Authentication System  
+- Decision Support System (SPK)  
+- Basic Machine Learning (Image Classification)  
+- System Analysis & UI Implementation  
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 How I Work
+
+Saya belajar melalui pendekatan **project-based learning**.
+
+Setiap project dibangun melalui tahapan:
+analisis kebutuhan → desain sistem → implementasi → testing → evaluasi.
+
+Pendekatan ini membantu memahami bagaimana sistem bekerja secara nyata, bukan hanya teori.
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,bootstrap,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,typescript,mysql,html,css,javascript,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-## ⚡ Skills Overview
+## 🚀 Featured Projects
 
-- Laravel     █████████░ 85%
-- PHP         ████████░░ 80%
-- MySQL       ████████░░ 80%
-- JavaScript  ███████░░░ 70%
-- UI Design   ██████░░░░ 60%
+### 🧠 Decision Support System
+**Cafe Ranking SPK**  
+`2310010212_Noor-Shahla-Qeysha-Revarani_Cafe_Ranking_SPK`
 
----
-
-## 📌 Projects & Experience
-
-Beberapa project yang pernah saya kerjakan sebagian besar berfokus pada pengembangan aplikasi berbasis web.
-
-Saya belajar bagaimana sebuah sistem dibangun dari nol, mulai dari perancangan database, pembuatan backend, hingga implementasi fitur di sisi user.
-
-Salah satu project yang pernah saya buat adalah sistem berbasis web untuk pengambilan keputusan menggunakan pendekatan multi-kriteria, di mana data diproses untuk menghasilkan ranking secara otomatis.
-
-Selain itu, saya juga mengerjakan project latihan seperti CRUD system, dashboard admin, dan sistem autentikasi sebagai bagian dari proses pembelajaran.
+Sistem pendukung keputusan untuk melakukan perankingan café berdasarkan beberapa kriteria menggunakan metode pembobotan sederhana berbasis web.
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Web Development
+**Diagnosis System App**  
+`diagnosis-app`  
+Sistem berbasis web untuk simulasi analisis sederhana.
+
+**GIS Tambang Prototype**  
+`gis-tambang-coba`  
+Implementasi awal sistem informasi berbasis data spasial (GIS).
+
+**Web Daycare Management System**  
+`2310010212_Noor-Shahla-Qeysha-Revarani_WebDaycare`  
+Sistem informasi manajemen daycare berbasis web dengan fitur pengelolaan data dan operasional sistem.
+
+---
+
+### 🤖 Machine Learning
+**Deteksi Jenis Minuman**  
+`deteksi-jenis-minuman`  
+Model klasifikasi gambar untuk mendeteksi jenis minuman menggunakan pendekatan machine learning (image classification).
+
+---
+
+### 📱 Mobile Development
+**Praktikum Android**  
+`Praktikum_Android`  
+Project pembelajaran pengembangan aplikasi mobile menggunakan TypeScript.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cicisajaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -95,15 +109,15 @@ Selain itu, saya juga mengerjakan project latihan seperti CRUD system, dashboard
 <p align="center">
 
   <a href="https://github.com/cicisajaaa">
-    <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://instagram.com/cyyrvaa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:shahlaqeysha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
@@ -112,22 +126,22 @@ Selain itu, saya juga mengerjakan project latihan seperti CRUD system, dashboard
 
 ## 📫 Contact
 
-- GitHub: github.com/cicisajaaa  
-- Instagram: instagram.com/cyyrvaa 
+- GitHub: https://github.com/cicisajaaa  
+- Instagram: https://instagram.com/cyyrvaa  
 - Email: shahlaqeysha@gmail.com  
 
 ---
 
-## 💭 Closing
+## 💭 Closing Statement
 
-Saya masih terus belajar dan berkembang di dunia software development.
+Saya terus mengembangkan kemampuan dalam pengembangan sistem berbasis software dan web development.
 
-Setiap project adalah bagian dari proses untuk menjadi lebih baik di bidang teknologi.
+Setiap project menjadi sarana untuk memahami arsitektur sistem secara nyata dan meningkatkan kemampuan implementasi secara bertahap.
 
 ---
 
 <p align="center">
-  <i>"Consistency turns learning into real skill."</i>
+  <i>"Build consistently. Improve systematically. Grow through real projects."</i>
 </p>
 
 <p align="center">
